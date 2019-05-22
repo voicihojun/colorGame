@@ -1,18 +1,27 @@
+body {
+	background-color: black;
+	margin: 0;
+}
+
 h3 {
 	background-color: skyblue;
 	text-align: center;
 	margin: 0;
-	padding: 20px;
+	padding: 30px;
 	color: white;
 }
 
-
+nav ul {
+	background-color: white;
+	margin-top: 0;
+	padding: 15px;
+}
 
 nav ul li {
 	display: inline;
 	font-weight: bold;
 	color: skyblue;
-	padding: 50px;
+	padding: 60px;
 }
 
 nav ul li:hover {
@@ -35,6 +44,10 @@ nav ul li:hover {
 
 #numbers {
 	font-size: 35px;
+}
+
+#message {
+	color: black;
 }
 
 
