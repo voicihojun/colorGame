@@ -1,0 +1,40 @@
+h3 {
+	background-color: skyblue;
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+	color: white;
+}
+
+
+
+nav ul li {
+	display: inline;
+	font-weight: bold;
+	color: skyblue;
+	padding: 50px;
+}
+
+nav ul li:hover {
+	color: #232323;
+}
+
+.square {
+	width: 30%;
+	padding-bottom: 30%;
+	background-color: purple;
+	float: left;
+	margin: 1.66%;
+	border-radius: 30px;
+}
+
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+#numbers {
+	font-size: 35px;
+}
+
+
